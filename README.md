@@ -1,1 +1,1 @@
-# venv_enter
+# venv_activate
