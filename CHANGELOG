@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.2] - 2021-03-09
 
+- Added MIT License directly in the code.
+- Renamed.
+
+## [1.0.2] - 2021-03-09
+
 - Added line to update pip.
 - Changed some text in the Changelog.
 
