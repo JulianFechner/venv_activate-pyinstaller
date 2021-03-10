@@ -22,7 +22,7 @@ REM LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM
 REM OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 REM SOFTWARE.
 
-echo Please specify the name for the virtual enviroment that you would like to activate:
+echo Please specify the name of the virtual enviroment that you would like to activate:
 set /p venv=
 call "C:\Users\Julian Fechner\pyproj\%venv%\Scripts\activate.bat"
 cd C:\Users\Julian Fechner\pyproj\%venv%
