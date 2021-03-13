@@ -26,11 +26,11 @@ set /p venv=
 call "C:\Users\Julian Fechner\pyproj\%venv%\Scripts\activate"
 pip install --upgrade pip
 pip install -r requirements.txt
-cd C:\Users\Julian Fechner\pyproj\%venv%
+cd "C:\Users\Julian Fechner\pyproj\%venv%"
 dir
 echo Please specify the directory, which contains the .py-file.
 set /p dir=
-cd C:\Users\Julian Fechner\pyproj\%venv%\%dir%
+cd "C:\Users\Julian Fechner\pyproj\%venv%\%dir%"
 echo Please enter the options and the name of the .py-file, that pyinstaller should use.
 set /p pyi=
 call pyinstaller %pyi%
