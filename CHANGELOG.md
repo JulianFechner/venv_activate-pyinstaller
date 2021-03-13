@@ -8,5 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Languages: English
 
 ## [1.0.0] - 2021-03-10
+- Renamed.
+- Improved readability.
 
-Initial release.
+## [1.0.0] - 2021-03-10
+- Initial release.
